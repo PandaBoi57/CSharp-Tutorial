@@ -6,10 +6,8 @@ Change language into:
   * [Danish](../master/Translated/Danish/README.md)
   * [French](../master/Translated/French/README.md)
   * [German](../master/Translated/German/README.md)
+  * [Italian](../master/Translated/Italian/README.md)
   <!--
-  * [Greek]
-  * [Indonesian]
-  * [Italian]
   * [Khmer]
   * [Korean]
   * [Lao]

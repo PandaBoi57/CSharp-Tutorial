@@ -9,3 +9,5 @@ C# pourrait théoriquement être compilé en langage machine, mais dans la vie d
 C# est un langage Orienté Objet et n'offre pas la possibilité d'utiliser des variables et fonctions globales. Tout doit être encapsulé dans des classes, même les types les plus simples, tels que les entiers (int) et les chaînes de caractère (string), qui sont hérités de la classe System.Object.
 
 Dans les prochains chapitres, vous serez guidés au-travers des sujets les plus importants du langage C#.
+
+[Next](../../master/Translated/GettingStarted/VisualStudioCommunity.md)

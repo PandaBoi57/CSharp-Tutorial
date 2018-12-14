@@ -18,4 +18,6 @@ As soon as you have downloaded and installed it, you are ready to proceed with t
 
 Don't worry, there's a version for macOS as well - just follow the link above and be sure to select the version of **Visual Studio Community for macOS**!
 
-[Previous](../../master/README.md)
+[Previous](../README.md)
+
+[Next](HelloWorld.md)

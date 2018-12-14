@@ -9,3 +9,5 @@ C # teorik olarak makine koduna derlenebilir, ancak gerçek hayatta, her zaman .
 C #, Nesne Yönelimli (Object oriented) bir dildir ve Global değişkenler veya fonksiyonlar sunmaz. Her şey, System.Object sınıfından miras alınan int ve string gibi basit türler dahi sınıflarda (classes) tanımlanır.
 
 Takip eden bölümlerde, C # dilinin en önemli konuları ile ilgili bilgiler sunulacaktır.
+
+[Next](GettingStarted/VisualStudioCommunity.md)

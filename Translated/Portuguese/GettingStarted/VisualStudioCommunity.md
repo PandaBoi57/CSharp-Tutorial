@@ -15,3 +15,5 @@ Então, para iniciarmos este tutorial, faça o download do Visual Studio Communi
 ## Não está usando o Windows?
 
 Não se preocupe, existe uma versão para macOS também - siga o link acima e selecione a versão **Visual Studio Community for macOS**!
+
+[Previous](../README.md)

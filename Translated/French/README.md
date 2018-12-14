@@ -10,4 +10,4 @@ C# est un langage Orienté Objet et n'offre pas la possibilité d'utiliser des v
 
 Dans les prochains chapitres, vous serez guidés au-travers des sujets les plus importants du langage C#.
 
-[Next](../../master/Translated/GettingStarted/VisualStudioCommunity.md)
+[Next](GettingStarted/VisualStudioCommunity.md)

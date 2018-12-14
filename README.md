@@ -11,9 +11,8 @@ Change language into:
   * [Romanian](../master/Translated/Romanian/README.md)
   * [Russian](../master/Translated/Russian/README.md)
   * [Turkish](../master/Translated/Turkish/README.md)
+  * [Uzbek](../master/Translated/Uzbek/README.md)
   <!--
-  * [Ukranian]
-  * [Uzbek]
   * [Vietnamese]
   * [Yoruba] -->
 

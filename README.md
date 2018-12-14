@@ -8,9 +8,8 @@ Change language into:
   * [German](../master/Translated/German/README.md)
   * [Italian](../master/Translated/Italian/README.md)
   * [Portuguese](../master/Translated/Portuguese/README.md)
+  * [Romanian](../master/Translated/Romanian/README.md)
   <!--
-  * [Punjabi]
-  * [Romanian]
   * [Russian]
   * [Serbian]
   * [Spanish]

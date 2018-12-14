@@ -4,9 +4,8 @@ Change language into:
   * [Arabic](../master/Translated/Arabic/README.md)
   * [Czech](../master/Translated/Czech/README.md)
   * [Danish](../master/Translated/Danish/README.md)
+  * [French](../master/Translated/French/README.md)
   <!--
-  * [Dutch]
-  * [French]
   * [German]
   * [Greek]
   * [Indonesian]

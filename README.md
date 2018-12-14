@@ -2,13 +2,8 @@ Change language into:
 
   * [Afrikaans](../master/Translated/Afrikaans/README.md)
   * [Arabic](../master/Translated/Arabic/README.md)
+  * [Czech](../master/Translated/Czech/README.md)
   <!--
-  * [Bangla]
-  * [Bosnian]
-  * [Bulgarian]
-  * [Chinease]
-  * [Croation]
-  * [Czech]
   * [Danish]
   * [Dutch]
   * [French]

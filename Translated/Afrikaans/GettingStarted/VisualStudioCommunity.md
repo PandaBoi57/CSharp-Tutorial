@@ -11,3 +11,9 @@ Voorheen het hierdie verniet weergawe in aparte weetgawes gekom afhangende die o
 Om aan die gang te kom, laai Visual Studio Community af van [visualstudio.com](http://www.visualstudio.com). Hier is 'n direkte skakel na die aflaai bladsy:
 
 [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads)
+
+As jy klaar die program afgelaai en geinstaleer het, is jy reg om voort te gaan met die volgende artikel in die reeks waar jy jou eerste C# program sal skryf.
+
+## Gebruik nie Windows nie?
+
+Niks om oor bekommerd te wees, daar is 'n macOS weergawe beskikbaar, volg net die skakel bo en maak seker dat jy die **Visual Studio Community for macOS** aflaai en instaleer.

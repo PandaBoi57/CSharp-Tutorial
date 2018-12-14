@@ -9,3 +9,5 @@ C# poderia teoricamente ser compilado para linguagem de máquina, mas na vida re
 C# é uma linguagem orientada a objetos e não oferece variáveis ou funções globais. Tudo é envolto em classes, mesmo tipos simples como int e string, que são herdados da classe System.Object.
 
 Nos próximos capítulos, você será guiado através dos mais importantes tópicos sobre C#.
+
+[Next](GettingStarted/VisualStudioCommunity.md)

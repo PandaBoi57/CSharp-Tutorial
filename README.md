@@ -9,8 +9,8 @@ Change language into:
   * [Italian](../master/Translated/Italian/README.md)
   * [Portuguese](../master/Translated/Portuguese/README.md)
   * [Romanian](../master/Translated/Romanian/README.md)
+  * [Russian](../master/Translated/Russian/README.md)
   <!--
-  * [Russian]
   * [Serbian]
   * [Spanish]
   * [Turkish]

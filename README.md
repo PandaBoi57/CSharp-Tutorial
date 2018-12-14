@@ -1,8 +1,6 @@
 Change language into:
 
   * [Afrikaans](../master/Translated/Afrikaans/README.md)
-  * [Czech](../master/Translated/Czech/README.md)
-  * [Danish](../master/Translated/Danish/README.md)
   * [French](../master/Translated/French/README.md)
   * [German](../master/Translated/German/README.md)
   * [Italian](../master/Translated/Italian/README.md)

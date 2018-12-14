@@ -1,6 +1,6 @@
 Change language into:
 
-  * [Afrikaans](../master/Afrikaans/README.md)
+  * [Afrikaans](../master/Translated/Afrikaans/README.md)
   <!--
   * [Amharic](todo)
   * [Arabic]

@@ -5,8 +5,8 @@ Change language into:
   * [Czech](../master/Translated/Czech/README.md)
   * [Danish](../master/Translated/Danish/README.md)
   * [French](../master/Translated/French/README.md)
+  * [German](../master/Translated/German/README.md)
   <!--
-  * [German]
   * [Greek]
   * [Indonesian]
   * [Italian]

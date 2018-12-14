@@ -9,3 +9,5 @@ C# könnte theoretisch in Maschinencode kompiliert werden, wird jedoch in der Pr
 C# ist eine objektorientierte Programmiersprache und bietet keine globalen Variablen oder Funktionen an. Alles ist in Klassen gepackt, selbst einfache Variablen vom Typ int (Integer) und string (Zeichenketten) entstammen der System.Object Klasse.
 
 In den folgenden Kapiteln wirst du durch die wichtigsten Themen der Programmiersprache C# geführt.
+
+[Next](GettingStarted/VisualStudioCommunity.md)

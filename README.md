@@ -1,12 +1,3 @@
-Change language into:
-
-  * [Afrikaans](../master/Translated/Afrikaans/README.md)
-  * [French](../master/Translated/French/README.md)
-  * [German](../master/Translated/German/README.md)
-  * [Portuguese](../master/Translated/Portuguese/README.md)
-  * [Russian](../master/Translated/Russian/README.md)
-  * [Turkish](../master/Translated/Turkish/README.md)
-
 # Getting started:
 
 ## Introduction

@@ -19,3 +19,5 @@ As jy klaar die program afgelaai en geinstaleer het, is jy reg om voort te gaan 
 Niks om oor bekommerd te wees, daar is 'n macOS weergawe beskikbaar, volg net die skakel bo en maak seker dat jy die **Visual Studio Community for macOS** aflaai en instaleer.
 
 [Previous](../README.md)
+
+[Next](HelloWorld.md)

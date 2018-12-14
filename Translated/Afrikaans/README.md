@@ -9,3 +9,5 @@ C# kan teorieties kompileerl word na masjien kode, maar in werklike lewe, word d
 C# is 'n Objekgeoriënteerde taal en laat nie globale veranderlikes of funskies toe nie. Alles is omhuls in klasse, selfs eenvoudige tipes soos int en string, what erf vane die System.Object klas.
 
 In die volgende hoofstukke sal jy gelei word deur die mees belangrikste onderwerpe van C#.
+
+[Next](../../master/Translated/Afrikaans/GettingStarted/VisualStudioCommunity.md)

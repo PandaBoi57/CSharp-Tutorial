@@ -6,7 +6,6 @@ Change language into:
   * [Portuguese](../master/Translated/Portuguese/README.md)
   * [Russian](../master/Translated/Russian/README.md)
   * [Turkish](../master/Translated/Turkish/README.md)
-  * [Uzbek](../master/Translated/Uzbek/README.md)
 
 # Getting started:
 

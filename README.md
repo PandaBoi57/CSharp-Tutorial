@@ -4,7 +4,6 @@ Change language into:
   * [French](../master/Translated/French/README.md)
   * [German](../master/Translated/German/README.md)
   * [Portuguese](../master/Translated/Portuguese/README.md)
-  * [Romanian](../master/Translated/Romanian/README.md)
   * [Russian](../master/Translated/Russian/README.md)
   * [Turkish](../master/Translated/Turkish/README.md)
   * [Uzbek](../master/Translated/Uzbek/README.md)

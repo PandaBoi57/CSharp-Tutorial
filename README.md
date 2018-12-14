@@ -7,12 +7,8 @@ Change language into:
   * [French](../master/Translated/French/README.md)
   * [German](../master/Translated/German/README.md)
   * [Italian](../master/Translated/Italian/README.md)
+  * [Portuguese](../master/Translated/Portuguese/README.md)
   <!--
-  * [Khmer]
-  * [Korean]
-  * [Lao]
-  * [Polish]
-  * [Portuguese]
   * [Punjabi]
   * [Romanian]
   * [Russian]

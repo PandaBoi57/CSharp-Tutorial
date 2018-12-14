@@ -8,9 +8,9 @@ Previously, this free version came in separate versions for various tasks, e.g. 
 
 ### Download Visual Studio Community
 
-So, to get started with this tutorial, go ahead and download Visual Studio Community from [visualstudio.com](visualstudio.com). Here's a direct link to the download page:
+So, to get started with this tutorial, go ahead and download Visual Studio Community from [visualstudio.com](http://www.visualstudio.com). Here's a direct link to the download page:
 
-[https://www.visualstudio.com/downloads](visualstudio.com/downloads)
+[https://www.visualstudio.com/downloads](https://www.visualstudio.com/downloads)
 
 As soon as you have downloaded and installed it, you are ready to proceed with the next articles, where we will create your very first C# application.
 

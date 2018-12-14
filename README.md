@@ -10,10 +10,8 @@ Change language into:
   * [Portuguese](../master/Translated/Portuguese/README.md)
   * [Romanian](../master/Translated/Romanian/README.md)
   * [Russian](../master/Translated/Russian/README.md)
+  * [Turkish](../master/Translated/Turkish/README.md)
   <!--
-  * [Serbian]
-  * [Spanish]
-  * [Turkish]
   * [Ukranian]
   * [Uzbek]
   * [Vietnamese]

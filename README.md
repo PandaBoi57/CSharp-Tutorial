@@ -3,7 +3,6 @@ Change language into:
   * [Afrikaans](../master/Translated/Afrikaans/README.md)
   * [French](../master/Translated/French/README.md)
   * [German](../master/Translated/German/README.md)
-  * [Italian](../master/Translated/Italian/README.md)
   * [Portuguese](../master/Translated/Portuguese/README.md)
   * [Romanian](../master/Translated/Romanian/README.md)
   * [Russian](../master/Translated/Russian/README.md)

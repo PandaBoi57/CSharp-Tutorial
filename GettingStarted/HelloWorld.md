@@ -56,3 +56,7 @@ Once again, hit F5 to run it, and you will see the black window actually staying
 The first line uses the Console class to output a line of text, and the second one reads a line of text from the console. Read? Why? Actually this is a bit of a trick, since without it, the application would just end and close the window with the output before anyone could see it.
 
 The ReadLine command tells that application to wait for input from the user, and as you will notice, the console window now allows you to enter text. Press Enter to close it. Congratulations, you have just created your first C# application! Read on in the next tutorial for even more information about what's actually going on.
+
+[Previous](VisualStudioCommunity.md)
+
+[Next](HelloWorldExplained.md)

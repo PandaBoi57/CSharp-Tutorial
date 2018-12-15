@@ -8,6 +8,6 @@ C# could theoretically be compiled to machine code, but in real life, it's alway
 
 C# is an Object Oriented language and does not offer global variables or functions. Everything is wrapped in classes, even simple types like int and string, which inherit from the System.Object class.
 
-In the following chapters, you will be guided through the most important topics about C#.
+In the following tutorials, you will be guided through the most important topics about C#.
 
 [Next](../master/GettingStarted/VisualStudioCommunity.md)
